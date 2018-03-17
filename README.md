@@ -1,2 +1,2 @@
 # Hello-World
-First attemt
+First attempt
